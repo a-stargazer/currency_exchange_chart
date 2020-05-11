@@ -1,0 +1,35 @@
+/* colour scheme: https://colorhunt.co/palette/181741;
+
+pastel blue: #dddddd;
+pink1: #fab7b7
+pink2; #f5a8a8,
+pink3: #e19999;
+
+*/ 
+
+:root {
+	--bg-color: #fab7b7;
+	--page-spacing: 50px;
+}
+
+body {
+	background-color: var(--bg-color);
+	margin-left: var(--page-spacing);
+}
+
+.NavBar {
+	padding: var(--page-spacing);
+	background-color: #e19999;
+}
+
+.BarChart {
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	margin-left: var(--page-spacing);
+	margin-right: var(--page-spacing);
+}
+
+.BarChart-bar {
+	position: relative;
+}
