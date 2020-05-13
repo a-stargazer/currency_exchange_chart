@@ -8,10 +8,6 @@ This is a project for the coding bootcamp [Kickstart Coding](http://kickstartcod
 
 ![Home Page](./img/homepage.jpg)
 
-## Credits
-
-This project uses data from an [exchange rate API](https://api.exchangeratesapi.io/latest).
-
 ### Features
 
 * Basic JavaScript interaction
@@ -20,3 +16,6 @@ This project uses data from an [exchange rate API](https://api.exchangeratesapi.
 
 ![When clicked](./img/homepage-click.jpg)
 
+## Credits
+
+This project uses data from an [exchange rate API](https://api.exchangeratesapi.io/latest).
