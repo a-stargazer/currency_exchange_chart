@@ -1,6 +1,6 @@
 # Current Exchange Rate Bar-Chart
 
-This project intends to portray a bar chart that displays data found from a currency exchange API. 
+This project intends to display data found from a currency exchange API in the form of a bar-chart. 
 
 ## About
 
